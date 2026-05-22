@@ -2,7 +2,7 @@
 
 R scripts to build and evaluate a Random Forest model for pollen classification using flow cytometry data.
 
-**Publication:** *https://doi.org/10.5194/amt-19-2817-2026*
+**Publication:** Tardif, S., Kanieski, M. R., Lapa, G., Bonnamour, G., Sousa-Silva, R., Laforest-Lapointe, I., and Paquette, A.: Flow cytometry and machine learning enable identification of allergenic urban tree pollen, Atmos. Meas. Tech., 19, 2817–2835, https://doi.org/10.5194/amt-19-2817-2026, 2026. 
 
 **Datasets ready for training (step2 outputs) and trained models (step3 outputs):** *https://doi.org/10.6084/m9.figshare.30870641*
 
