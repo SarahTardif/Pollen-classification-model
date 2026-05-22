@@ -2,7 +2,7 @@
 
 R scripts to build and evaluate a Random Forest model for pollen classification using flow cytometry data.
 
-**Publication:** *(link to article)*
+**Publication:** *https://doi.org/10.5194/amt-19-2817-2026*
 
 **Datasets ready for training (step2 outputs) and trained models (step3 outputs):** *https://doi.org/10.6084/m9.figshare.30870641*
 
